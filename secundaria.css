@@ -1,0 +1,152 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.menu2{
+
+
+    font-size: 30px;
+    background: #141414;
+  
+   margin:17.1% auto;
+   height: 17.1%;
+}
+
+.logo {
+	padding-bottom: 12%;
+    color: 	#FFFF00;
+    text-align: center;
+    font-size: 65px;
+	font-family: 'Playfair Display SC', serif;}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+
+    text-decoration: none;
+    color: #fff;
+    margin-right: 10px;
+    text-align: center;
+}
+
+nav a:hover {
+    color: #3CB371;
+}
+
+header {
+	display:auto flex;
+	background: no-repeat center/ cover url(capas2/capa2.jpg);
+    width: 100%;
+    height: 500px;
+    background-color: #363636;
+}
+
+.titulo{
+    
+    background-color: #363636;
+    font-size: 30px;
+    
+    text-align: center;
+}
+.animes-dublados{
+    text-align: center;
+    color: white;
+}
+
+.prim{
+    background-color: #1C1C1C;
+}
+
+.artigo{
+    background-color: #363636;
+    width: 100%;
+    height: 50%;
+}
+
+.TABELA{
+    background-color: #1C1C1C;
+    margin: 10px;
+   font-size: 25px;
+   text-decoration: none;
+}
+
+.lista-prin{
+text-align: center;
+margin: 15px;
+background-color: #1c1c1c;
+}
+
+.artigo1{
+    width: 250px;
+    height: 200px;
+    padding: 1px;
+    margin: 8px;
+    background-color: black;
+    display: inline-block;
+    
+
+}
+
+.artigo2{
+    width: 250px;
+    height: 200px;
+    padding: 0%;
+    margin: 8px;
+    background-color: black;
+    display: inline-block;
+   
+    
+
+}
+
+.burn{
+    width: 250px;
+    height: 250px;
+}
+
+.botburn{
+    background-color: black;
+	border: none;
+    color:white;
+    cursor: pointer;
+    transition: 0.8s ease all;
+   width: 100%;
+   height: 50%;
+   font-size: 20px;
+}
+
+.botburn:hover {
+    color:black;
+	background-color: white;
+}
+
+.animes1{
+    width: 100%;
+    height: 50%;
+    padding: 10%;
+    padding-top: 5px;
+   
+}
+
+
+.anime2{
+    width: 100%;
+    height: 50%;
+    padding: 10%;
+    padding-top: 5px;
+   
+   
+    
+    
+   
+}
+

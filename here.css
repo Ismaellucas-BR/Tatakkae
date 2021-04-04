@@ -1,0 +1,184 @@
+:root {
+    --vermelho: #E50914;
+    --preto: #141414;
+    --verde: #00FF7F;
+    --cinza: #363636;
+    --roxo: #4B0082;
+}
+
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    position: relative;
+    padding-bottom: 58px;
+   
+}
+
+.menu2{
+
+
+    font-size: 30px;
+    background: #141414;
+  
+   margin:17.1% auto;
+   height: 17.1%;
+}
+
+.logo {
+	padding-bottom: 12%;
+    color: 	#FFFF00;
+    text-align: center;
+    font-size: 65px;
+	font-family: 'Playfair Display SC', serif;}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+
+    text-decoration: none;
+    color: #fff;
+    margin-right: 10px;
+    text-align: center;
+}
+
+nav a:hover {
+    color: #3CB371;
+}
+
+header {
+	display:auto flex;
+	background: no-repeat center/ cover url(capas/capa.jpg);
+    width: 100%;
+    height: 500px;
+    background-color: #363636;
+}
+
+article {
+    background-color:  #1C1C1C;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    font-size: smaller;
+    color: white;
+}
+
+.episodios-novos{
+background-color:#363636;
+text-align: center;
+color:white;
+font-size: 30px;
+}
+
+.destaques {
+    text-align: center;
+    background-color: #363636;
+    color: white;
+    font-size: 25px;
+    font-family: 'Playfair Display SC', serif;
+    margin-bottom: 8px;
+        padding: 15px;
+}
+
+
+.box-filmes {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.p1:hover {
+    background-color: white;
+    color:black;
+    
+}
+
+.p1 {
+    
+    padding:10px;
+    width: 100%;
+   background-color: rgba(0,0,0,50);
+    border: none;
+    color:white;
+    cursor: pointer;
+    transition: 0.8s ease all;
+}
+
+.p1 i{
+	margin-right: 3px;
+}
+ 
+ .carr{
+ 	background-color: black;
+ 	margin: 10px;
+ }
+
+ .shi{
+	width: 250px;
+	height: 200px;
+	padding: 1px;
+	margin: 8px;
+	background-color: black;
+	display: inline-block;
+	margin-top: 8px;
+
+
+}
+
+.shi2{
+	width: 250px;
+	height: 200px;
+	padding: 0%;
+
+
+}
+
+
+
+
+.botshi{
+	background-color: black;
+	border: none;
+    color:white;
+    cursor: pointer;
+    transition: 0.8s ease all;
+   width: 100%;
+   height: 20%;
+}
+
+.botshi:hover {
+    
+    color:black;
+	background-color: white;
+	
+}
+.shifo:hover {
+    
+    color:black;
+	background-color: white;
+	
+}
+.pok{
+	display: inline;
+	align-items: center;
+	
+}
+
+.cormet{
+	background-color: #1C1C1C;
+	width: 100%;
+
+}
+
+.link{
+	text-decoration: none;
+	color: inherit; 
+}
+
